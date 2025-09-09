@@ -20,3 +20,10 @@
 4   Tag-Along Small 265 14.99140 4.718529  15.12 11.3800 18.4800 4.75 41.40
 > nは１０５６
 
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+Shapiro–Wilk test on residuals: W = 0.972, p < .001
+Levene (Brown–Forsythe, median-centered):
+Levene's Test for Homogeneity of Variance (center = "median")
+        Df F value Pr(>F)
+group   23  0.8244 0.7024
+      1033   
