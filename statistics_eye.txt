@@ -27,3 +27,15 @@ Levene's Test for Homogeneity of Variance (center = "median")
         Df F value Pr(>F)
 group   23  0.8244 0.7024
       1033   
+
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+                         F Df Df.res     Pr(>F)    
+1 Type            163.2905  1   1012 < 2.22e-16 ***
+2 Size             15.5943  1   1012 8.3925e-05 ***
+3 Delay             5.4402  5   1012 6.0156e-05 ***
+4 Type:Size         8.7914  1   1012  0.0030975  **
+5 Type:Delay        1.3032  5   1012  0.2601483    
+6 Size:Delay        1.7411  5   1012  0.1224783    
+7 Type:Size:Delay   2.5821  5   1012  0.0248469   *
+---
+Signif. codes:   0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1 
